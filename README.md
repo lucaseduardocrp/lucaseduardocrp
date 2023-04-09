@@ -1,4 +1,4 @@
-<h1><a href="https://www.linkedin.com/in/lucaseccarvalho/" target="_blank"></h1>
+<h1><a href="https://www.linkedin.com/in/lucaseccarvalho/" target="_blank" style="color: #fff"></h1>
 
 <p aligh="left">
 <!--   <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
