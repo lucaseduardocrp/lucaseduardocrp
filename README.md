@@ -12,7 +12,7 @@ https://www.linkedin.com/in/lucaseccarvalho/
 
 ## 📈 &nbsp;Some Code Stats ##
 
-
+![Lucas Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseduardocrp&show_icons=true&theme=radical)
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <div style="display: inline_block"><br>
