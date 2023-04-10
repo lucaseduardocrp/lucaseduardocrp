@@ -26,7 +26,7 @@ https://www.linkedin.com/in/lucaseccarvalho/
 
 ## 🌎 &nbsp;Where to find me ##
 <div style="display: inline_block"><br> 
-  <a href="https://www.linkedin.com/in/lucaseccarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%FF5A6E?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/lucaseduardo_crp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%FF5A6E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucaseccarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF5A6E?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/lucaseduardo_crp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF5A6E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://web.whatsapp.com/send?phone=5521985970787" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-FF5A6E?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
