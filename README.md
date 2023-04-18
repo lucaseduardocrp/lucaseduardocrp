@@ -21,7 +21,7 @@ https://www.linkedin.com/in/lucaseccarvalho/
   <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" height="30" width="40" alt="figma" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
+  <img align="center" height="30" width="40" alt="figma" src="[https://cdn.worldvectorlogo.com/logos/figma-1.svg](https://www.flaticon.com/br/icone-gratis/figma_5968705?term=figma&page=1&position=2&origin=search&related_id=5968705)">
 </div>
 
 ## 🌎 &nbsp;Where to find me ##
