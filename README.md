@@ -20,10 +20,10 @@ https://www.linkedin.com/in/lucaseccarvalho/
   <img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" height="30" width="40" alt="figma" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg"> 
   <img align="center" height="30" width="40" alt="figma" src="https://www.svgrepo.com/show/353498/bootstrap.svg">
   <img align="center" height="30" width="40" alt="figma" src="https://www.svgrepo.com/show/353527/bulma.svg">
+  <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="30" width="40" alt="figma" src="https://www.svgrepo.com/show/452202/figma.svg"> 
 </div>
 
