@@ -4,7 +4,7 @@ https://lucascrp.vercel.app/
 <p aligh="left">
 <!--   <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
   <p>Hey there, welcome!</br>
-  I'm Lucas Eduardo, Front End developer from <b>Rio de Janeiro, Brasil</b>.</p>
+  I'm Lucas Eduardo, Front End developer from <b>Rio de Janeiro, Brazil</b>.</p>
 
 - 💡  I like to explore new trends and learn new technologies.
 - 🌱 I'm currently learning.
