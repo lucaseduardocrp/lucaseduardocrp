@@ -14,7 +14,7 @@ https://lucascrp.vercel.app/
 
 ![Lucas Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseduardocrp&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardocrp&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardocrp&layout=compact&theme=midnight-purple)
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <div style="display: inline_block"><br>
