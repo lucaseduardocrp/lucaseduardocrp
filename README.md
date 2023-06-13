@@ -14,6 +14,11 @@ https://lucascrp.vercel.app/
 
 ![Lucas Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseduardocrp&show_icons=true&theme=dracula)
 
+<div style="display: flex;justify-content: space-between;">
+    <a href="https://github.com/lucaseduardocrp">
+    <img   src="https://github-readme-stats.vercel.app/api/wakatime/?username=lucaseduardocrp&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=8"/>
+</div>
+
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
