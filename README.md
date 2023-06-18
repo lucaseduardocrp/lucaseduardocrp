@@ -18,7 +18,7 @@ https://lucascrp.vercel.app/
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 
-<div style="display: inline_block, background: gray"><br>
+<div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
