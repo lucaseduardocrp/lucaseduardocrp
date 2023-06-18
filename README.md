@@ -18,20 +18,22 @@ https://lucascrp.vercel.app/
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 
-<div style="display: inline_block"><br> 
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg"/>
-  <img src="https://www.svgrepo.com/show/452185/css-3.svg"/>
-  <img src="https://www.svgrepo.com/show/353925/javascript.svg"/>
-  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg"/>
-  <img src="https://www.svgrepo.com/show/354521/vitejs.svg"/>
-  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"/>
-  <img src="https://www.svgrepo.com/show/354262/react-router.svg"/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" height="30" width="40" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">    
+  <img align="center" height="30" width="40" alt="graphql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">    
+  <img align="center" height="30" width="40" alt="storybook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">    
+  <img align="center" height="30" width="40" alt="materialui" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+  <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" height="30" width="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" height="30" width="40" alt="wordpress" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg">
+  <img align="center" height="30" width="40" alt="figma" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg">
+  <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ## 🌎 &nbsp;Where to find me ##
