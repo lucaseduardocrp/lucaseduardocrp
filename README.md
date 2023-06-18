@@ -24,7 +24,6 @@ https://lucascrp.vercel.app/
   <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   <img align="center" height="30" width="40" alt="vite" src="https://www.svgrepo.com/show/354521/vitejs.svg">
   <img align="center" height="30" width="40" alt="next" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
-  <img align="center" height="30" width="40" alt="react router" src="https://www.svgrepo.com/show/354262/react-router.svg">
   <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
