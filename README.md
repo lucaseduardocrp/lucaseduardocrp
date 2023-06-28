@@ -16,6 +16,17 @@ https://lucascrp.vercel.app/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardocrp&layout=compact&theme=midnight-purple)
 
+## Status
+
+<div  style="display: flex;">
+    <a href="https://wakatime.com/@68589745-02a7-4d9e-b420-7571d2ac6af5" target="_blank"><img src="https://wakatime.com/badge/user/68589745-02a7-4d9e-b420-7571d2ac6af5.svg" alt="Total time coded since May 11 2023" /></a>
+</div>
+    <br/>
+<div style="display: flex;justify-content: space-between;">
+    <a href="https://github.com/lucaseduardocrp">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=lucaseduardocrp&layout=compact&theme=midnight-purple&custom_title=Most%20Used%20Languages&langs_count=5"/>
+</div>
+
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 
 <div style="display: inline_block"><br>
@@ -39,3 +50,5 @@ https://lucascrp.vercel.app/
   <a href="https://www.instagram.com/lucaseduardo_crp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-3C0080?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send/?phone=5521985970787&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-3C0080?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+
