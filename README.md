@@ -24,7 +24,7 @@ https://lucascrp.vercel.app/
     <br/>
 <div style="display: flex;justify-content: space-between;">
     <a href="https://github.com/lucaseduardocrp">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=lucaseduardocrp&layout=compact&theme=midnight-purple&custom_title=Most%20Used%20Languages&langs_count=5"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=lucaseduardocrp&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=5"/>
 </div>
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
