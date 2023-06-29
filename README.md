@@ -19,7 +19,7 @@ https://lucascrp.vercel.app/
 ## Status
 
 <div  style="display: flex;">
-    <a href="https://wakatime.com/@lucaseduardocrp" target="_blank"><img src="https://wakatime.com/badge/user/68589745-02a7-4d9e-b420-7571d2ac6af5.svg" alt="Total time coded since May 11 2023" /></a>
+    <a href="https://wakatime.com/badge/user/75013fef-2d2f-4173-93c6-84c9bdbe8c2c.svg" target="_blank"><img src="https://wakatime.com/badge/user/68589745-02a7-4d9e-b420-7571d2ac6af5.svg" alt="Total time coded since May 11 2023" /></a>
 </div>
     <br/>
 <div style="display: flex;justify-content: space-between;">
