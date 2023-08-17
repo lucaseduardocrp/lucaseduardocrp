@@ -33,7 +33,7 @@ https://lucascrp.vercel.app/
   <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   <img align="center" height="30" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" alt="next" src="https://lucascrp.vercel.app/Next.svg">
+  <img align="center" height="30" width="40" alt="next" src="https://www.svgrepo.com/show/342062/next-js.svg">
   <img align="center" height="30" width="40" alt="styled components" src="https://blog.nextinnovation.kr/assets/Styled_Components/logo.png">
   <img align="center" height="30" width="40" alt="tailwind" src="https://www.svgrepo.com/show/374118/tailwind.svg">
   <img align="center" height="30" width="40" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
