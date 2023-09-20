@@ -25,7 +25,9 @@ https://lucascrp.vercel.app/
     <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=lucaseduardocrp&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages"/>
 </div>
 
-## 👨🏻‍💻 &nbsp;Technologies I use for the Frontend ##
+## 👨🏻‍💻 &nbsp;Technologies I use ##
+
+##  Frontend  ##
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -41,7 +43,7 @@ https://lucascrp.vercel.app/
   <img align="center" height="30" width="40" alt="figma" src="https://www.svgrepo.com/show/452202/figma.svg">
 </div>
 
-## 👨🏻‍💻 &nbsp;Technologies I use for the Backend ##
+## Backend ##
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="node" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg">
