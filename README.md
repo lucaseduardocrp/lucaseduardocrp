@@ -8,8 +8,6 @@ https://lucascrp.vercel.app/
 
 ## 👨🏻‍💻 &nbsp;Technologies I use ##
 
-##  Frontend  ##
-
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,11 +20,6 @@ https://lucascrp.vercel.app/
   <img align="center" height="30" width="40" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="30" width="40" alt="figma" src="https://www.svgrepo.com/show/452202/figma.svg">
-</div>
-
-## Backend ##
-
-<div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="node" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg">
   <img align="center" height="30" width="40" alt="express" src="https://www.svgrepo.com/show/330398/express.svg">
   <img align="center" height="30" width="40" alt="mongodb" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
