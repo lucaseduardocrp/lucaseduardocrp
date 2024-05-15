@@ -4,26 +4,7 @@ https://lucascrp.vercel.app/
 <p aligh="left">
 <!--   <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
   <p>Hey there, welcome!</br>
-  I'm Lucas Eduardo, Fullstack Developer from <b>Rio de Janeiro, Brazil</b>.</p>
-
-- 💡  I like to explore new trends and learn new technologies.
-- 🌱 I'm currently learning.
-- ❤ Tech, Coding and Arts
-
-## 📈 &nbsp;Some Code Stats ##
-
-![Lucas Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseduardocrp&show_icons=true&theme=midnight-purple)
-
-## Status
-
-<div  style="display: flex;">
-    <a href="https://wakatime.com/badge/user/75013fef-2d2f-4173-93c6-84c9bdbe8c2c.svg" target="_blank"><img src="https://wakatime.com/badge/user/75013fef-2d2f-4173-93c6-84c9bdbe8c2c.svg" alt="Total time coded since May 11 2023" /></a>
-</div>
-    <br/>
-<div style="display: flex;justify-content: space-between;">
-    <a href="https://github.com/lucaseduardocrp">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=lucaseduardocrp&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages"/>
-</div>
+  I'm Lucas Eduardo, Mobile Developer and Fullstack Developer.</p>
 
 ## 👨🏻‍💻 &nbsp;Technologies I use ##
 
