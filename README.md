@@ -26,6 +26,7 @@ https://lucascrp.vercel.app/
   <img align="center" height="30" width="40" alt="figma" src="https://www.svgrepo.com/show/452202/figma.svg">
 </div>
 
+## 🌎 &nbsp;Where to find me ##
 
 <div style="display: inline_block"><br> 
   <a href="https://www.linkedin.com/in/lucaseccarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3C0080?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
