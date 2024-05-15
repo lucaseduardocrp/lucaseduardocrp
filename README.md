@@ -20,7 +20,7 @@ https://lucascrp.vercel.app/
   <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="30" width="40" alt="node" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg">
   <img align="center" height="30" width="40" alt="nest" src="https://www.svgrepo.com/show/373865/nest-middleware-ts.svg">
-  <img align="center" height="30" width="40" alt="mongodb" src="https://www.svgrepo.com/svg/373845/mongo">
+  <img align="center" height="30" width="40" alt="mongodb" src="https://www.svgrepo.com/show/373845/mongo.svg">
   <img align="center" height="30" width="40" alt="firebase" src="https://www.svgrepo.com/show/373595/firebase.svg">
   <img align="center" height="30" width="40" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg">
   <img align="center" height="30" width="40" alt="figma" src="https://www.svgrepo.com/show/452202/figma.svg">
