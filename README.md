@@ -3,8 +3,8 @@
 
 <p aligh="left">
 <!--   <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
-  <p>Hey there, welcome!</br>
-  I'm Lucas Eduardo, Mobile Developer and Fullstack Developer.</p>
+  <p>Olá, bem-vindo(a)!</br>
+  Eu me chamo Lucas Eduardo, sou desenvolvedor Backend e Mobile</p>
 
 ## 👨🏻‍💻 &nbsp;Technologies I use ##
 
