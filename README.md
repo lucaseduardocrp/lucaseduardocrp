@@ -1,5 +1,5 @@
 <h1>My Portfolio</h1>
-https://codeup-com.vercel.app
+<a target="_blank">https://codeup-com.vercel.app</a>
 
 <p aligh="left">
 <!--   <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
