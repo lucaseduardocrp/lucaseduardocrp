@@ -6,7 +6,7 @@
   <p>Olá, bem-vindo(a)!</br>
   Eu me chamo Lucas Eduardo, sou desenvolvedor Backend e Mobile</p>
 
-## 👨🏻‍💻 &nbsp;Technologies I use ##
+## 👨🏻‍💻 &nbsp;Tecnologias que eu trabalho ##
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="C#" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg">
@@ -30,11 +30,10 @@
   
 </div>
 
-## 🌎 &nbsp;Where to find me ##
+## 🌎 &nbsp;Aonde me encontrar ##
 
 <div style="display: inline_block"><br> 
-  <a href="https://www.linkedin.com/in/lucaseccarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3C0080?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/lucaseduardo_crp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-3C0080?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucascrp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3C0080?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send/?phone=5521985970787&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-3C0080?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
