@@ -14,6 +14,7 @@ https://lucascrp.vercel.app/
   <img align="center" height="30" width="40" alt="SQL Server" src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg">
   <img align="center" height="30" width="40" alt="MySQL" src="https://icon.icepanel.io/Technology/svg/MySQL.svg">
   <img align="center" height="30" width="40" alt="Dart" src="https://www.svgrepo.com/show/353631/dart.svg">
+  <img align="center" height="30" width="40" alt="Flutter" src="https://icon.icepanel.io/Technology/svg/Flutter.svg">
   <img align="center" height="30" width="40" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   <img align="center" height="30" width="40" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
