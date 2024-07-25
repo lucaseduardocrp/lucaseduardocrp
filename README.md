@@ -9,11 +9,11 @@ https://lucascrp.vercel.app/
 ## 👨🏻‍💻 &nbsp;Technologies I use ##
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" alt="C#" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
-  <img align="center" height="30" width="40" alt=".NET" src="https://www.svgrepo.com/show/473592/dotnet.svg">
-  <img align="center" height="30" width="40" alt="SQL Server" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png">
+  <img align="center" height="30" width="40" alt="C#" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg">
+  <img align="center" height="30" width="40" alt=".NET" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg">
+  <img align="center" height="30" width="40" alt="SQL Server" src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg">
+  <img align="center" height="30" width="40" alt="MySQL" src="https://icon.icepanel.io/Technology/svg/MySQL.svg">
   <img align="center" height="30" width="40" alt="Dart" src="https://www.svgrepo.com/show/353631/dart.svg">
-  <img align="center" height="30" width="40" alt="Android-studio" src="https://www.svgrepo.com/show/475631/android-color.svg">
   <img align="center" height="30" width="40" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   <img align="center" height="30" width="40" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,8 +23,10 @@ https://lucascrp.vercel.app/
   <img align="center" height="30" width="40" alt="Mongodb" src="https://www.svgrepo.com/show/373845/mongo.svg">
   <img align="center" height="30" width="40" alt="Firebase" src="https://www.svgrepo.com/show/373595/firebase.svg">
   <img align="center" height="30" width="40" alt="Docker" src="https://www.svgrepo.com/show/331370/docker.svg">
+  <img align="center" height="30" width="40" alt="Swagger" src="https://icon.icepanel.io/Technology/svg/Swagger.svg">
   <img align="center" height="30" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="30" width="40" alt="Figma" src="https://www.svgrepo.com/show/452202/figma.svg">
+  
 </div>
 
 ## 🌎 &nbsp;Where to find me ##
